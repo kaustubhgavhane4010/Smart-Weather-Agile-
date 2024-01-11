@@ -1,1 +1,1 @@
-# Smart-Weather-Agile-
+# GTM systems is a large IT company with offices all around the world. The company delivers software products and services to corporate clients. With climate change increasing the unpredictability of local weather conditions, there has been great demand for technology that can provide reliable weather information. While GTM has no expertise in meteorology, it proposes to aggregate weather data from multiple providers and use analytics to correlate it with meaningful conclusions for businesses.
